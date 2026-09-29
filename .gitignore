@@ -220,8 +220,8 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Machine Learning / project data
-data/raw/
-data/processed/
+data/facebook_hateful_memes/
+data/hf_raw/
 outputs/
 checkpoints/
 models/
